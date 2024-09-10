@@ -11,4 +11,15 @@ width: 200px;
     color: rgba(255, 78, 155, 0.77);
     font-weight: bold;
   }
-  
+
+  .sansserif {
+    font-family: Helvetica;
+  }
+
+  h2 {
+    font-size: ;20
+  }
+
+  h3 {
+    font-size: ;20
+  }
