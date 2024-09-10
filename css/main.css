@@ -16,8 +16,14 @@ width: 200px;
     font-family: Helvetica;
   }
 
-  h2 + h3 {
-    font-size: 30%;
+
+
+  h2 {
+    font-size: 150%;
+  }
+
+ h3 {
+    font-size: 150%;
   }
 
 
